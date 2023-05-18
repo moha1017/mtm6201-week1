@@ -1,10 +1,14 @@
 body {
-    background-color:rgb(103, 157, 191);
+    background-color:seagreen;
+}
+
+h1 {
+    background-color: seagreen;
 }
 .wrapper{
     width: 1000px;
     padding:10px;
-    background-color: aquamarine;
+    background-color: lightgreen;
 }
 
 .img-size {
@@ -25,4 +29,5 @@ body {
     }
     dl {
         clear: left;
+        background-color: seagreen;
     }
