@@ -1,4 +1,28 @@
 body {
-    background-color: blue;
+    background-color:rgb(103, 157, 191);
+}
+.wrapper{
+    width: 1000px;
+    padding:10px;
+    background-color: aquamarine;
 }
 
+.img-size {
+    display: block;
+    width: 100%;
+    max-width: 150px;
+    float: left; 
+    padding: 0 20px 20px 0;
+}
+
+    dt {
+        font-size: 1.15;
+        font-weight: bold;
+    }
+
+    dd{
+        margin-inline-start: 0%;
+    }
+    dl {
+        clear: left;
+    }
